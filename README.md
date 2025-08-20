@@ -4,7 +4,7 @@ A modern, responsive web application for exploring NASA's Astronomy Picture of t
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://your-username.github.io/stellar-view-apod)**
+**[View Live Application](https://sudip-sasquash0x01.github.io/-Stellar-View---NASA-APOD-Explorer/)**
 
 ## ✨ Features
 
@@ -59,8 +59,8 @@ Typography combines **Montserrat** for headings with **Open Sans** for body text
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/stellar-view-apod.git
-   cd stellar-view-apod
+   git clone https://github.com/Sudip-sasquash0x01/-Stellar-View---NASA-APOD-Explorer.git
+   cd Stellar-View---NASA-APOD-Explorer
    ```
 
 2. **Get NASA API Key** (Optional - demo key included)
