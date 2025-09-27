@@ -1,22 +1,22 @@
-# 🌌 Stellar View - NASA APOD Explorer
+# Stellar View - NASA APOD Explorer
 
 A modern, responsive web application for exploring NASA's Astronomy Picture of the Day archive. Built with vanilla JavaScript, this single-page application provides an intuitive interface for discovering and collecting cosmic imagery with detailed astronomical explanations.
 
-## 🚀 Live Demo
+## Live Demo
 
 **[View Live Application](https://sudip-sasquash0x01.github.io/-Stellar-View---NASA-APOD-Explorer/)**
 
-## ✨ Features
+## Features
 
-- **🔍 Date-based Search**: Browse NASA's APOD archive from 1995 to present
-- **⭐ Favorites System**: Save and manage your favorite cosmic discoveries
-- **📱 Fully Responsive**: Seamless experience across desktop, tablet, and mobile devices
-- **🎨 Space-themed Design**: Dark, immersive UI inspired by the cosmos
-- **⚡ Single Page Application**: No page refreshes, smooth transitions
-- **♿ Accessible**: WCAG 2.1 AA compliant with full keyboard navigation
-- **🌐 Modern Web Standards**: ES6+, Fetch API, CSS Grid/Flexbox
+- ** Date-based Search**: Browse NASA's APOD archive from 1995 to present
+- ** Favorites System**: Save and manage your favorite cosmic discoveries
+- ** Fully Responsive**: Seamless experience across desktop, tablet, and mobile devices
+- ** Space-themed Design**: Dark, immersive UI inspired by the cosmos
+- ** Single Page Application**: No page refreshes, smooth transitions
+- ** Accessible**: WCAG 2.1 AA compliant with full keyboard navigation
+- ** Modern Web Standards**: ES6+, Fetch API, CSS Grid/Flexbox
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript (ES6+)
 - **API**: NASA APOD (Astronomy Picture of the Day)
@@ -24,7 +24,7 @@ A modern, responsive web application for exploring NASA's Astronomy Picture of t
 - **Design**: Mobile-first responsive design
 - **Fonts**: Google Fonts (Montserrat, Open Sans)
 
-## 🎯 Key Technical Highlights
+##  Key Technical Highlights
 
 ### Modern JavaScript Implementation
 - **Event-driven architecture** with proper delegation
@@ -44,7 +44,7 @@ A modern, responsive web application for exploring NASA's Astronomy Picture of t
 - **Optimized images** with proper fallbacks
 - **Lazy loading** implementation for enhanced performance
 
-## 🌟 Design Philosophy
+## Design Philosophy
 
 The application features a **space-themed design** with a carefully crafted color palette inspired by cosmic elements:
 
@@ -55,7 +55,7 @@ The application features a **space-themed design** with a carefully crafted colo
 
 Typography combines **Montserrat** for headings with **Open Sans** for body text, creating a modern, scientific aesthetic that enhances readability.
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone the repository**
    ```bash
@@ -71,14 +71,14 @@ Typography combines **Montserrat** for headings with **Open Sans** for body text
    - Open `index.html` in your browser
    - Or use a local server: `python -m http.server 8000`
 
-## 📱 Browser Support
+## Browser Support
 
 - **Chrome 90+** (Recommended)
 - **Firefox 88+**
 - **Safari 14+**
 - **Edge 90+**
 
-## 🎨 Features Walkthrough
+## Features Walkthrough
 
 ### Home Page
 - **Intuitive date selection** with built-in validation
@@ -113,7 +113,7 @@ stellar-view-apod/
 - **State Management**: Efficient application state with LocalStorage persistence
 - **UI Components**: Reusable, accessible interface elements
 
-## 🌟 Development Highlights
+## Development Highlights
 
 This project showcases expertise in:
 
@@ -124,7 +124,7 @@ This project showcases expertise in:
 - **Performance**: Optimized loading and runtime efficiency
 - **Code Quality**: Clean, maintainable, well-documented code
 
-## 🤝 Contributing
+## Contributing
 
 While this is a personal portfolio project, suggestions and feedback are welcome! Feel free to:
 
@@ -136,7 +136,7 @@ While this is a personal portfolio project, suggestions and feedback are welcome
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **NASA** for providing the incredible APOD API and astronomical imagery
 - **Google Fonts** for the beautiful Montserrat and Open Sans typefaces
